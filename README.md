@@ -1,2 +1,5 @@
 # IMDB-Datasets-Movies-Reviews
-# The purpose of the collecting this IMDB Datasets Movies Reviews to classfier the datasets to either positive or negative. The dataset was gotten from Kaggle websites 
+# Summery
+The purpose of this project is run a machine Learning model on IMDB Datasets Movies Reviews to classifier if dataset is either positive or negative. 
+# Dataset
+The data = 'https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews'
