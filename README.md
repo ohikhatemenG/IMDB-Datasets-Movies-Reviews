@@ -8,3 +8,5 @@ The Dataset information comprises Review and Sentiment, it has 50,000 rows and 2
 # Visualization of Dataset
 The dataset was visualized in terms of the number of positive and negative. Also a feature engineering was done on the dataset to  count the number of words in each row. The number of duplicates discovered in the dataset was 421 and were removed from the dataset. The most frequent words in positive and negative also observed in the dataset  
 # THE RESULTS OF THE MODEL
+Model Training
+In order to facilitate th creation and validation of the model, the dataset was divided into two parts: the training dataset and testing dataset of 70% and 30% respectivetly.
